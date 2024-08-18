@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I am a recent university graduate with a degree in Data Science, equipped with a solid foundation in data analysis, machine learning, and statistical modeling. During my studies, I developed strong skills in Python, R, and various data visualization tools. I am passionate about turning complex datasets into clear, actionable insights and am eager to apply my technical expertise to solve real-world problems in a dynamic, data-driven environment.
 
-Skills: Python / R / Machine Learning
+## 👨‍💻Skills: Python / R / Machine Learning
 
 - 🔭 I’m currently working on Aztha Technologies LLC 
 - 🌱 I’m currently learning Python, R, Machine Learning, SQL 
