@@ -1,8 +1,7 @@
 ### Hi there 👋, I am Mohammad Kabir Hosen
 ![Data Scientist](https://pbs.twimg.com/profile_banners/1825058323512860672/1723966539/600x200)
-#### Data Scientist
 
-# About Me
+# 🚀 About Me
 I am a recent university graduate with a degree in Data Science, equipped with a solid foundation in data analysis, machine learning, and statistical modeling. During my studies, I developed strong skills in Python, R, and various data visualization tools. I am passionate about turning complex datasets into clear, actionable insights and am eager to apply my technical expertise to solve real-world problems in a dynamic, data-driven environment.
 
 Skills: Python / R / Machine Learning
