@@ -16,7 +16,7 @@ I am a recent university graduate with a degree in Data Science, equipped with a
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hosenmk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hosenmk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hosenmka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hosen_mkabir)  
 
 ## 📧 For Business Inquiries
-kabir.datascience@gmail.com
+## ✅ ► kabir.datascience@gmail.com
 
 
 
