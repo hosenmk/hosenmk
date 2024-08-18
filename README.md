@@ -22,8 +22,6 @@ I am a recent university graduate with a degree in Data Science, equipped with a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hosenmk)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosenmk)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hosenmk&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/hosenmk)  
