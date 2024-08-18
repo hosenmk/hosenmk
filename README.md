@@ -13,6 +13,12 @@ I am a recent university graduate with a degree in Data Science, equipped with a
 - 💬 Ask me about Data Science 
 
 ## ☕ Connect with me!
+<p align="left">
+<a href="https://twitter.com/hosen_mkabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hosen_mkabir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hosenmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hosenmk" height="30" width="40" /></a>
+<a href="https://fb.com/hosenmk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hosenmk" height="30" width="40" /></a>
+</p>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hosenmk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hosenmk/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hosenmka)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hosen_mkabir)  
 
 ## 📧 For Business Inquiries
