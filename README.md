@@ -4,7 +4,7 @@
 ## 🚀 About Me
 I am a recent university graduate with a degree in Data Science, equipped with a solid foundation in data analysis, machine learning, and statistical modeling. During my studies, I developed strong skills in Python, R, and various data visualization tools. I am passionate about turning complex datasets into clear, actionable insights and am eager to apply my technical expertise to solve real-world problems in a dynamic, data-driven environment.
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/fc7ea544-7c02-4d4c-b4d4-93ad270e2914)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/80a9a612-0f67-4d7b-aeb4-1fd849deb542)
 ">
 
 ## 👨‍💻Skills: Python / R / Machine Learning
