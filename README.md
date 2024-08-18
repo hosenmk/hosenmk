@@ -4,6 +4,8 @@
 ## 🚀 About Me
 I am a recent university graduate with a degree in Data Science, equipped with a solid foundation in data analysis, machine learning, and statistical modeling. During my studies, I developed strong skills in Python, R, and various data visualization tools. I am passionate about turning complex datasets into clear, actionable insights and am eager to apply my technical expertise to solve real-world problems in a dynamic, data-driven environment.
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-O8c4981eaf7O.gif">
+
 ## 👨‍💻Skills: Python / R / Machine Learning
 
 - 🔭 I’m currently working on Aztha Technologies LLC 
@@ -11,9 +13,6 @@ I am a recent university graduate with a degree in Data Science, equipped with a
 - 👯 I’m looking to collaborate on github 
 - 🤔 I’m looking for help with Data issues 
 - 💬 Ask me about Data Science
-
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/80a9a612-0f67-4d7b-aeb4-1fd849deb542)
-">
 
 
 ## ☕ Connect with me!
