@@ -8,11 +8,11 @@ I am a recent university graduate with a degree in Data Science, equipped with a
 
 ## 👨‍💻Skills: Python / R / Machine Learning
 
-- 🔭 I’m currently working on Aztha Technologies LLC 
-- 🌱 I’m currently learning Python, R, Machine Learning, SQL 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Data issues 
-- 💬 Ask me about Data Science
+- 🔭 I’m currently working as Research Assistant
+- 🌱 Expert on Python, R, Machine Learning, and SQL 
+- 👯 Try to collaborate on github 
+- 🤔 Love to solve Data issues 
+- 💬 Ask me about Data task
 
 
 ## ☕ Connect with me!
